@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RenatoValentim/jasmine-typescript-environment/issues"
   },
-  "homepage": "https://github.com/RenatoValentim/jasmine-typescript-environment#readme"
+  "homepage": "https://github.com/RenatoValentim/jasmine-typescript-environment#readme",
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  }
 }
