@@ -1,0 +1,19 @@
+{
+  "name": "jasmine-typescript-environment",
+  "version": "1.0.0",
+  "description": "TDD studies with jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon --ext ts --exec 'jasmine-ts --config=jasmine.json'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenatoValentim/jasmine-typescript-environment.git"
+  },
+  "author": "Renato Valentim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenatoValentim/jasmine-typescript-environment/issues"
+  },
+  "homepage": "https://github.com/RenatoValentim/jasmine-typescript-environment#readme"
+}
